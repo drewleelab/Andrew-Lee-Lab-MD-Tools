@@ -1,0 +1,20 @@
+name: CM-Allostery
+channels:
+  - schrodinger
+  - conda-forge
+  - anaconda
+  - defaults
+
+dependencies:
+  - pymol
+  - pymol-psico
+  - biopython
+  - scikit-learn
+  - umap-learn
+  - numpy
+  - pandas
+  - scipy
+  - tqdm
+  - matplotlib
+  - seaborn
+  - colorcet
