@@ -1,10 +1,9 @@
-# CM-Allostery MD Analysis
+# Lee Lab MD Tools
 This repository includes all of the scripts used to run, analyze,
-and visualize molecular dynamics trajectories of yeast chorismate mutase (CM)
-with different mutations and ligand parameters.
+and visualize molecular dynamics trajectories of yeast chorismate mutase (CM).
 
 ## Installation
-To clone this repository, use ```git clone {link}``` or download manually.
+To clone this repository, use ```git clone https://github.com/drewleelab/Andrew-Lee-Lab-MD-Tools``` or download manually.
 All necessary dependencies are provided in the ```environment.yaml``` file.
 It is recommended to use python package manager ```mamba``` for most convenient installation.
 
